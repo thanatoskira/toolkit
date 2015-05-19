@@ -2,6 +2,7 @@
 Collection of tools
 
 Contact me at:
+
     Twitter: @thanato233
     Email: thanatoskirakira@gmail.com
     Sina WeiBo: thanatoskira
@@ -17,5 +18,6 @@ Submitting Issues
 If you have *questions* regarding the T00l please eamil me at thanatoskirakira@gmail.com
 
 If you find a *bug* please open an issue and include at least the following in the description:
+
     - Full command string you used
     - OS you using 
