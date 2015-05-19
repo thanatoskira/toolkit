@@ -9,7 +9,7 @@ Contact me at:
 Change log
 ==========
 
-- Addition of the DirBuster - T00l for Web Directory Scan (Developing)
+- Addition of the DirBuster - T00l for Web Directory Scan (Developing):
     - Addition of the Banner (2015/5/17)
 
 Submitting Issues
