@@ -39,7 +39,6 @@ def Scanner(URL, InFile=open('Dictionary.lst','r').readlines(), OutFile=open('Sc
     if parser.netloc == '':
         sys.exit("\033[1;31m[-]The URL is incorrect!(eg:http://www.baidu.com)\033[0m")
     URL = (parser.scheme == "http" or parser.scheme == "https") and parser.scheme + "://" + parser.netloc + '/' or "http://" + parser.netloc + '/'
-#    print URL
     exist = '' #存放返回值200的URL
     wrong = '' #存放服务器内部错误的URL
     redirect = '' #重定向的URL
