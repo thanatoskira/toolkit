@@ -76,7 +76,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="DirBuster v{} - T00l for Web Directory Scan".format(DirBuster_version),version=DirBuster_version,usage='dirbuster.py -u [target url] [dirbuster options] ',fromfile_prefix_chars='@', epilog="Time to go~")
     mgroup = parser.add_argument_group("DirBuster", "Options for DirBuster")
     mgroup.add_argument("-u","--url=",metavar="URL",dest="URL",help="The Target URL(eg:http://www.baidu.com/)")
-    mgroup.add_argument("-w","--write",dest="OutFile", type=argparse.FileType('w'),metavar="filename", default=sys.stdout, help="Specify file to log to (stdout by default:Scan.output)")
+    mgroup.add_argument("-w","--write=",dest="OutFile", type=argparse.FileType('w'),metavar="filename", default=sys.stdout, help="Specify file to log to (stdout by default:Scan.output)")
     mgroup.add_argument("-f","--file=",dest="InFile", type=argparse.FileType('r'),metavar="filename", default=sys.stdin, help="The Specify file of Directory file.(default:Dictionary.lst)")
     args = parser.parse_args()
 
