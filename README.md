@@ -17,7 +17,7 @@ Change log
 - Addition of the Baidu-Domain-Search - T00l for Search Domain By Baidu
     - Complete AT 2015/7/25
 
-- Addition of From_Domain_GET_IP - T00l for GET IP BY PING
+- Addition of From-Domain-Get-IP - T00l for GET IP BY PING
     - Get All IP Address from a Domain List
 
 Submitting Issues
