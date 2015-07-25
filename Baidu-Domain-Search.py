@@ -29,7 +29,7 @@ def Baidu_DomainSearch(SearchDomain, PageCount):
                 choice = raw_input("Are you Sure to Stop the Scan?(yes/y, default:no)")
                 if choice == "yes" or choice == "y":
                     OutPutWithSave(Domains, SearchDomain)
-                    print "[1]ByeBye～"
+                    print "\nByeBye～"
                     exit(0)
 
             except Exception, e:
@@ -58,14 +58,12 @@ def OutPutWithSave(Domains, SearchDomain):
     fp.close()
         
 
-
-
 if __name__ == '__main__':
     try:
         domain = raw_input(r'Search Domain:')
         pagecount = int(raw_input(r'Page Count:'))
         #timeout = int(raw_input(r'TimeOut:'))
         Baidu_DomainSearch(domain, pagecount)
-    except Exception, e:
-        print "ByeBye～"
+    except (EOFError, KeyboardInterrupt), e:
+        print "\nByeBye～"
         exit(0)
