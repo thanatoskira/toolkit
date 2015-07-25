@@ -49,7 +49,7 @@ def Baidu_DomainSearch(SearchDomain, PageCount):
 
 def OutPutWithSave(Domains, SearchDomain):
     print '\nDomain about ' + SearchDomain + ' :\n'
-    fp = fopen("Domain_result.txt", "a")
+    fp = open("Domain_result.txt", "a")
     fp.writelines('----------' + str(ctime()) + '----------\n')
     for domain in Domains:
         print domain
