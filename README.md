@@ -19,6 +19,7 @@ Change log
 
 - Addition of From-Domain-Get-IP - T00l for GET IP BY PING
     - Get All IP Address from a Domain List
+    - Complete AT 2015/7/25
 
 Submitting Issues
 =================
