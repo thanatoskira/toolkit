@@ -14,6 +14,9 @@ Change log
     - Addition of the Banner (2015/5/17)
     - Addition of the Function Scanner() (2015/5/23)
 
+- Addition of the Baidu-Domain-Search - T00l for Search Domain By Baidu
+    Complete AT 2015/7/25
+
 Submitting Issues
 =================
 If you have *questions* regarding the T00l please eamil me at thanatoskirakira@gmail.com
