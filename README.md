@@ -15,7 +15,7 @@ Change log
     - Addition of the Function Scanner() (2015/5/23)
 
 - Addition of the Baidu-Domain-Search - T00l for Search Domain By Baidu
-    Complete AT 2015/7/25
+    - Complete AT 2015/7/25
 
 Submitting Issues
 =================
