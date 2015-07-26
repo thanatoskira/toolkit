@@ -21,6 +21,9 @@ Change log
     - Get All IP Address from a Domain List
     - Complete AT 2015/7/25
 
+- Addition of IP-Scanner-Port-ByStationMasterT00ls - T00l for Collect Port Open On IP
+    - Complete AT 2015/7/26
+
 Submitting Issues
 =================
 If you have *questions* regarding the T00l please eamil me at thanatoskirakira@gmail.com
