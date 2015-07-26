@@ -16,7 +16,6 @@ def Baidu_DomainSearch(SearchDomain, PageCount):
     for times in range(PageCount):
         content = requests.get(url)
         soup = BeautifulSoup(content.text)
-#        response = requests.models.Response()
         for Tage in soup.body.find_all("h3", "t"):
             SearchURL = Tage.a['href']
             try:
@@ -62,7 +61,6 @@ if __name__ == '__main__':
     try:
         domain = raw_input(r'Search Domain:')
         pagecount = int(raw_input(r'Page Count:'))
-        #timeout = int(raw_input(r'TimeOut:'))
         Baidu_DomainSearch(domain, pagecount)
     except (EOFError, KeyboardInterrupt), e:
         print "\nByeBye～"
