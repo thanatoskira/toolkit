@@ -10,21 +10,21 @@ Contact me at:
 Change log
 ==========
 
-- Addition of the DirBuster - T00l for Web Directory Scan (Developing):
+- Addition of the DirBuster - T00l For Web Directory Scan (Developing):
     - Addition of the Banner (2015/5/17)
     - Addition of the Function Scanner() (2015/5/23)
 
-- Addition of the Baidu-Domain-Search - T00l for Search Domain By Baidu
+- Addition of the Baidu-Domain-Search - T00l For Search Domain By Baidu
     - Complete AT 2015/7/25
 
-- Addition of From-Domain-Get-IP - T00l for Get IP By PING
+- Addition of From-Domain-Get-IP - T00l For Get IP By PING
     - Get All IP Address from a Domain List
     - Complete AT 2015/7/25
 
-- Addition of IP-Scanner-Port-ByStationMasterT00ls - T00l for Collect Port Open On IP
+- Addition of IP-Scanner-Port-ByStationMasterT00ls - T00l For Collect Open Port On IP
     - Complete AT 2015/7/26
 
-- Addition of Gxnu-Score-Search - T00l for Get Score From Gxnu
+- Addition of Gxnu-Score-Search - T00l For Get Score From Gxnu
     - Complet AT 2015/7/26
 
 Submitting Issues
