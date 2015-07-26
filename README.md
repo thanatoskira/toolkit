@@ -25,7 +25,7 @@ Change log
     - Complete AT 2015/7/26
 
 - Addition of Gxnu-Score-Search - T00l for Get Score From Gxnu
-    - Complet AT 20155/7/26
+    - Complet AT 2015/7/26
 
 Submitting Issues
 =================
