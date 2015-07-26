@@ -24,6 +24,9 @@ Change log
 - Addition of IP-Scanner-Port-ByStationMasterT00ls - T00l for Collect Port Open On IP
     - Complete AT 2015/7/26
 
+- Addition of Gxnu-Score-Search - T00l for Get Score From Gxnu
+    - Complet AT 20155/7/26
+
 Submitting Issues
 =================
 If you have *questions* regarding the T00l please eamil me at thanatoskirakira@gmail.com
