@@ -38,7 +38,7 @@ def Baidu_DomainSearch(SearchDomain, PageCount):
                     print "[-]Wrong " + domain
                     Domains.add(domain)
                 except Exception, ex:
-                    print "[-]Wrong " + e
+                    print "[-]Wrong " + str(e)
                 
         url = soup.body.find_all("a", "n")
         url = "http://www.baidu.com" + url[-1]['href']
